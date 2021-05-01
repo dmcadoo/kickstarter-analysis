@@ -15,7 +15,11 @@
 ### Like the challenge with the order of coloumns in the countifs formula, editing and personalizing the charts can also be difficult. With new editions, and dealing with cross platform versions ( MAC and windows) remeberign how to edit colors, text, and formating inside the charts can be cumbersome. Relying on google and the limited help section within excel can ultimatley lead the user to the correct settings.
 
 ## Results
-### With this limited comparison of the data, we can still infer that the largest number of succesful campaigns started in the middle of their  starting year, and 
+### With this limited comparison of the data, we can still infer that the largest number of succesful campaigns started in the middle of their  starting year, and that around sixty percent of all theater/play campings were succesful.
+
+### We can also conclude that there was no real correlation between goal amount and the percenatge successful/failed.
+
+### While this is a tertiary glance at the data, a deeper examination of the "theater/plays" variety to other theater campaigns or a broader comparison to all campaigns in select time frames may give a more discerable conclusion.
 
 
 
