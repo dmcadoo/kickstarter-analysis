@@ -10,7 +10,8 @@
 
 ### Transforming the data allowed us to selectivley compare the "theater" data independently. By creating a pivot table, and filtering the data correctly, we saw a **higher** number of successful campaigns start in the middle of the year. https://github.com/dmcadoo/kickstarter-analysis/blob/8e151f88d26bb1cf93b2966892bc27f9152b44d4/screenshots/Pivot%20Table%20and%20Pivot%20Chart%20.png
 
-### We were also able to demonstrate the percentage of successful, failed, and canceled campaigns based on the monitary goal set. By using "countifs" formulas, we were able to extrapolate based on outcome and count the project outcomes per divided goal value. By then using the sum formula, the percenatge of each outcome was tallied and put into a visual chart. The order of coloumn values used in the countifs function is a key to getting the correct data, and some experimentation is neccessary to overcome this data obstacle. https://github.com/dmcadoo/kickstarter-analysis/blob/8e151f88d26bb1cf93b2966892bc27f9152b44d4/screenshots/Countifs%20and%20line%20graph.png
+### We were also able to demonstrate the percentage of successful, failed, and canceled campaigns based on the monitary goal set. By using "countifs" formulas, we were able to extrapolate based on outcome and count the project outcomes per divided goal value. By then using the sum formula, the percenatge of each outcome was tallied and put into a visual chart. The order of coloumn values used in the countifs function is a key to getting the correct data, and some experimentation is neccessary to overcome this data obstacle.https://github.com/dmcadoo/kickstarter-analysis/blob/8e151f88d26bb1cf93b2966892bc27f9152b44d4/screenshots/Countifs%20and%20line%20graph.png
+
 
 ### Like the challenge with the order of coloumns in the countifs formula, editing and personalizing the charts can also be difficult. With new editions, and dealing with cross platform versions ( MAC and windows) remeberign how to edit colors, text, and formating inside the charts can be cumbersome. Relying on google and the limited help section within excel can ultimatley lead the user to the correct settings.
 
@@ -21,5 +22,4 @@
 
 ### While this is a tertiary glance at the data, a deeper examination of the "theater/plays" variety to other theater campaigns or a broader comparison to all campaigns in select time frames may give a more discerable conclusion.
 
-###  ** higher test **
 
